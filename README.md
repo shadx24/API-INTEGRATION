@@ -68,3 +68,6 @@ Public API: OpenWeatherMap API for fetching weather data.
 
 HTML/CSS/JavaScript: Standard web technologies for structuring, styling, and adding interactivity to the application.
 
+#**OUTPUT OF THE TASK**: 
+![Image](https://github.com/user-attachments/assets/841720cb-5f02-4b43-878d-b2bf5090e053)
+
