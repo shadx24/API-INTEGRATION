@@ -12,23 +12,24 @@
 
 **MENTOR NAME**: NEELA SANTHOSH KUMAR
 
-#DESCRIPTION OF THE TASK:
+#**DESCRIPTION OF THE TASK**
 
-Objective:
+**OBJECTIVES**:
 
 Create a user-friendly web application that retrieves data from a selected public API and presents it in an organized and interactive manner.
 Key Requirements:
 
-API Selection: Choose a public API that provides data of interest, such as weather information, news updates, or jokes.
+**API SELECTION**: Choose a public API that provides data of interest, such as weather information, news updates, or jokes.
 
-Web Application Structure: Design an intuitive interface that includes:
+**WEB APPLICATION STRUCTURE**: 
+Design an intuitive interface that includes:
 
 An input field for user queries (e.g., entering a city name for weather data).
 A button to initiate the data retrieval process.
 A section to display the fetched data clearly.
 Responsive Design: Ensure the application is accessible and visually appealing across various devices and screen sizes.
 
-Error Handling: Implement mechanisms to handle potential issues, such as invalid user input or failed API requests, and provide appropriate feedback to users.
+**ERROR HANDLING**: Implement mechanisms to handle potential issues, such as invalid user input or failed API requests, and provide appropriate feedback to users.
 
 Implementation Steps:
 
@@ -59,7 +60,7 @@ Commit your code regularly with meaningful messages.
 Create a repository on GitHub and push your local commits to the remote repository.
 Resources Used:
 
-Code Editor: Visual Studio Code for writing and editing code.
+**CODE EDITOR**: Visual Studio Code for writing and editing code.
 
 Version Control: Git for tracking changes and GitHub for hosting the repository.
 
